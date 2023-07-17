@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aravind Ontagodi</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Shailesh Shetty</h1>
+<h3 align="center">A passionate DevOps/SRE/Cloud</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-ontagodi/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aravindontagodi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshdevops/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shailes71570860)
 
 # 💻 Tech Stack:
 
