@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailesh Shetty</h1>
 <h3 align="center">A passionate DevOps/SRE/Cloud Engineer</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshdevops/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshsre/)
 
 # 💻 Tech Stack:
 
